@@ -26,7 +26,7 @@ class conta{
             console.log("Conta inativa....")				
             }				
     }				
-}
+
 
     debito(){
         if(this.ativo){
