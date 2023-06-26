@@ -1,0 +1,28 @@
+h1{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+h3{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+
+.logos{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+}
+.logos img{
+    height: 5%;
+    width: 5%;
+}
+.cardPL{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5%;
+}
